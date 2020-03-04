@@ -8,7 +8,7 @@
 
 
       <h2><nuxt-link class="button--green" to="/about">About</nuxt-link></h2>
-      <h2>Just Changed</h2>
+      <h2>Just Changed 2nd Time</h2>
 
       <h2 class="subtitle">
         My mathematical Nuxt.js project
